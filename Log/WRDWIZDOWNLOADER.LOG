@@ -1,0 +1,54 @@
+[11/08/21 20:26:40] [WRDWIZUSERINTF] ### Failed to Get entry into run.
+[11/08/21 20:26:41] [WRDWIZUSERINTF] ### Success to set entry into run.
+[11/08/21 20:26:41] [WRDWIZUSERINTF] >>> internet connection available
+[11/08/21 20:26:41] [WRDWIZUSERINTF] >>> Downloaded started at 20:26:41
+[11/08/21 20:26:41] [WRDWIZUSERINTF] >>> WardWiz Setup Server path http://updates.wardwiz.in/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe
+[11/08/21 20:26:41] [WRDWIZUSERINTF] >>> WardWiz Setup downloaded path C:\Users\91982\Desktop
+[11/08/21 20:26:42] [WRDWIZUSERINTF] ### WinHttpReceiveResponse failed to connect to host:[updates.wardwiz.in]
+[11/08/21 20:28:55] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:28:59] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:28:59] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:28:59] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:28:59] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:29:03] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:29:19] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:29:19] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:29:19] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:29:19] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:29:23] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:29:23] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:29:27] [WRDWIZUSERINTF] ### Host Connection Error: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:29:27] [WRDWIZUSERINTF] ### Failed to Download :[http://updates.wardwiz.in/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe], ThreadID: [11152]
+[11/08/21 20:29:27] [WRDWIZUSERINTF] ### Retry to download: FilePath: [C:\Users\91982\AppData\Local\Temp\\WardWizEssentialSetupNCIx64.exe]
+[11/08/21 20:29:27] [WRDWIZUSERINTF] ### SetByteRange Handle failed for: updates.wardwiz.in:/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe 
+[11/08/21 20:29:27] [WRDWIZUSERINTF] >>> File Downloaded: FilePath: [C:\Users\91982\AppData\Local\Temp\\WardWizEssentialSetupNCIx64.exe]
+[11/08/21 20:29:27] [WRDWIZUSERINTF] ### Failed to move file to C:\Users\91982\Desktop\WardWizEssentialSetupNCIx64.exe path with last error 2
+[11/08/21 20:29:27] [WRDWIZUSERINTF] ### !StartDownloadFile Failed to download file http://updates.wardwiz.in/wardwizavsetup/in/WardWizEssentialSetupNCIx64.exe
+[11/08/21 20:29:27] [WRDWIZUSERINTF] ### Failed to move file to C:\Users\91982\Desktop\WardWizEssentialSetupNCIx64.exe path with last error 2
+[11/08/21 20:29:27] [WRDWIZUSERINTF] ### Failed to move file to C:\Users\91982\Desktop\WardWizEssentialSetupNCIx64.exe path
+[11/08/21 20:29:36] [WRDWIZUSERINTF] >>> EXE file downloaded successfully
+[11/08/21 20:29:37] [WRDWIZUSERINTF] ### Filed to delete C:\Users\91982\AppData\Local\Temp\WWizDMNCIEss.INI file
+[11/08/21 20:31:43] [WRDWIZUSERINTF] ### Wardwiz download setup thread suspended failed.
+[11/08/22 10:01:58] [WRDWIZUSERINTF] ### Failed to Get entry into run.
+[11/08/22 10:01:59] [WRDWIZUSERINTF] ### Success to set entry into run.
+[11/08/22 10:01:59] [WRDWIZUSERINTF] >>> internet connection available
+[11/08/22 10:01:59] [WRDWIZUSERINTF] >>> Downloaded started at 10:01:59
+[11/08/22 10:01:59] [WRDWIZUSERINTF] >>> WardWiz Setup Server path http://updates.wardwiz.in/wardwizavsetup/in/WardWizEssPlusSetupNCIx64.exe
+[11/08/22 10:01:59] [WRDWIZUSERINTF] >>> WardWiz Setup downloaded path C:\Users\91982\Desktop
+[11/08/22 10:01:59] [WRDWIZUSERINTF] ### WinHttpReceiveResponse failed to connect to host:[updates.wardwiz.in]
+[11/08/22 10:03:06] [WRDWIZUSERINTF] >>> File Downloaded: FilePath: [C:\Users\91982\AppData\Local\Temp\\WardWizEssPlusSetupNCIx64.exe]
+[11/08/22 10:03:08] [WRDWIZUSERINTF] ### !StartDownloadFile Failed to download file http://updates.wardwiz.in/wardwizavsetup/in/WardWizEssPlusSetupNCIx64.exe
+[11/08/22 10:03:08] [WRDWIZUSERINTF] ### Failed to move file to C:\Users\91982\Desktop\WardWizEssPlusSetupNCIx64.exe path with last error 32
+[11/08/22 10:03:08] [WRDWIZUSERINTF] ### Failed to move file to C:\Users\91982\Desktop\WardWizEssPlusSetupNCIx64.exe path
+[11/08/22 10:10:20] [WRDWIZUSERINTF] >>> EXE file downloaded successfully
+[01/09/23 14:27:15] [WRDWIZUSERINTF] ### Failed to Get entry into run.
+[01/09/23 14:27:17] [WRDWIZUSERINTF] ### Success to set entry into run.
+[01/09/23 14:27:17] [WRDWIZUSERINTF] >>> internet connection available
+[01/09/23 14:27:17] [WRDWIZUSERINTF] >>> Downloaded started at 14:27:16
+[01/09/23 14:27:17] [WRDWIZUSERINTF] >>> WardWiz Setup Server path http://updates.wardwiz.in/wardwizavsetup/in/WardWizEssPlusSetupNCIx64.exe
+[01/09/23 14:27:18] [WRDWIZUSERINTF] >>> WardWiz Setup downloaded path C:\Users\91982\Desktop
+[01/09/23 14:27:18] [WRDWIZUSERINTF] ### WinHttpReceiveResponse failed to connect to host:[updates.wardwiz.in]
+[01/09/23 14:29:45] [WRDWIZUSERINTF] >>> File Downloaded: FilePath: [C:\Users\91982\AppData\Local\Temp\\WardWizEssPlusSetupNCIx64.exe]
+[01/09/23 14:29:47] [WRDWIZUSERINTF] ### !StartDownloadFile Failed to download file http://updates.wardwiz.in/wardwizavsetup/in/WardWizEssPlusSetupNCIx64.exe
+[01/09/23 14:29:49] [WRDWIZUSERINTF] >>> EXE file downloaded successfully
+[01/09/23 14:29:50] [WRDWIZUSERINTF] ### Filed to delete C:\Users\91982\AppData\Local\Temp\WWizDMNCIEssPlus.INI file
